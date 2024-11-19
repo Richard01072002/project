@@ -47,8 +47,8 @@ Display the result.
 
 ## Program:
 ```
-Developed By: Divya.A
-Reg No: 212222230034
+Developed By: Richardson A
+Reg No: 212222233005
 ```
 
 ### Perform ROI from an image:
